@@ -1,1 +1,1 @@
-# Plataforma-de-Gest-o-de-Est-gios
+# Plataforma-de-Gestao-de-Estagios
